@@ -1,0 +1,13 @@
+#container{
+    width: 500px;
+    height: 50px;
+    border: 4px solid grey;
+    border-radius: 50px;
+    margin: 50px 50px;
+}
+#relleno{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(47, 165, 47);
+    border-radius: 50px;
+}
